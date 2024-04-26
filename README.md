@@ -1,0 +1,1 @@
+These Jupyter Notebooks contain all the code libraries and techniques we used for cleaning data. We started off with pre-processing the data sets by combining them into one single file and then do exploratory data analysis.
